@@ -12,5 +12,6 @@ public class HelloWorld {
         topic.register(c);
 
         topic.postMessage("amumu is op champion!!");
+
     }
 }

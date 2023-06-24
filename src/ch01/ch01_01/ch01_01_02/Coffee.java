@@ -5,6 +5,6 @@ public abstract class Coffee {
 
     @Override
     public String toString() {
-        return "Hi this coffee is "+ this.getPrice();
+        return "Hello this coffee is "+ this.getPrice();
     }
 }
